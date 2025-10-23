@@ -9,6 +9,8 @@ MuseScore .mxl = href="data/MoonRiver.mxl"
 
 Week 3 - When using Veroviro, i got code "Different Schema in the file" a lot.
 
+Week 4 - Insufficent
+
 Week 5: - YoutTube:
 Spotify:
 IMSPL: 
