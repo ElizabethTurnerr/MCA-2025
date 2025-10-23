@@ -7,4 +7,16 @@ Week 2 - I faced difficulty simply by accessing and downloading MuseHub and Muse
 MuseScore transicribe = href="data/MoonRiver.mscz"
 MuseScore .mxl = href="data/MoonRiver.mxl"
 
-Week 3 - When using Veroviro, i got code "Different Schema in the file" a lot. \]
+Week 3 - When using Veroviro, i got code "Different Schema in the file" a lot.
+
+Week 5: - YoutTube:
+Spotify:
+IMSPL: 
+
+Metadata Schema: -
+title: Moon River 
+composer: Mancini
+performed: Audrey Hepburn
+genre: film score
+
+\]
