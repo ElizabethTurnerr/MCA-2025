@@ -1,24 +1,10 @@
 
 # \[Elizabeth's Portfolio\]
 <!-- Version 1.0 -->
-\[Week 1: Lab 1 - I was inspired by the score Moon River from Breakfast at Tiffany's 1961. My interest in film and artistic design can allow me to incoperate elements of film cinema into my work. With that being said, I will face challeneges with copyright, as scores are heavily copyrighted as they are, nevermind a score being pulled from a film. Lastly, scores in films are not always the eact version or same score as the original. For insatnce, it may be shortened, repeated or remixed. I have very little to none experience in coding and I find this all a little overwhelming and daunting, however since we are dealing with music data, and that is the key topic, I am sure I will find some familiaity and comfort in music sheets and design etc. 
+\Week 1: Theme, Fundamentals and Challengess
 
-Week 2 - I faced difficulty simply by accessing and downloading MuseHub and MuseScore, I had initially tried to download Musehub first, then download Musescore onto that, but it turns out they are two seperate platforms. I eventually downloaded MuseScore and to my surprise it was fairly simple. Since taking higher and advanced higher music at school, I could transcribe the notes simply, but I had difficulty keeping the rhythm and pace, especially since I am familiar with the song, and trying to simplify 10 bars required some trial and error. However, it taught me that scores can be easily digitised and that it really just takes time and practice. I reckon if I did this 5 years ago, it would be more seemless!
-MuseScore transicribe = href="data/MoonRiver.mscz"
-MuseScore .mxl = href="data/MoonRiver.mxl"
+I was inspired by the score Moon River from Breakfast at Tiffany's 1961. Vocals by Audrey Hepburn, the film and fashion icon. My interest in film and artistic design can allow me to incoperate elements of cinema into my work. Moon River is a song that has been remixed, covered and pulled inspiration from. A favourite of mine is Frank Ocean's Moon River 2018, a contemporary R&B cover of the song. Another popular 'Frank' who has covered Moon River is Frank Sinatra in 1964. 
 
-Week 3 - When using Veroviro, i got code "Different Schema in the file" a lot.
+Due to the huge success and legacy of Moon River, I will face challeneges with copyright, as scores are heavily copyrighted as they are, nevermind a score being pulled from a film. Scores in films are not always the eact version or same score as the original. For instance, it may be shortened, repeated or remixed. Additionally, ther are multiple versions/arrangements; metadata inconsistency between archives; varied file formats (score, MIDI, audio). Lastly, I have very little to none experience in coding and I find this all a little overwhelming and daunting, however since we are dealing with music data, and that is the key topic, I am sure I will find some familiaity and comfort in music sheets and design etc.
 
-Week 4 - Insufficent
-
-Week 5: - YoutTube:
-Spotify:
-IMSPL: 
-
-Metadata Schema: -
-title: Moon River 
-composer: Mancini
-performed: Audrey Hepburn
-genre: film score
-
-\]
+I will collect notated scores, metadata, and audio recordings for versions of "Moon River".]
