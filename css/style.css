@@ -1,8 +1,37 @@
-/* Add your own CSS rules here */
-#description {
-  margin: 0 0 1em 0;
+body {
+    font-family: Georgia, serif;
+    background-color: #f8f3e6; /* soft cinema cream */
+    color: #301010; /* deep brown-red for text */
+    margin: 0;
+    padding: 20px;
 }
 
-tei-teiHeader {
-  display: none;
+header, main, footer {
+    max-width: 800px;
+    margin: auto;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    color: #5e0d12; /* dark cinema red */
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+li {
+    margin: 10px 0;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #8a1c22; /* link red */
+}
+
+a:hover {
+    color: #5e0d12; /* deeper red */
 }
