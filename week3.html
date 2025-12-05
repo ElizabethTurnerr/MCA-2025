@@ -1,10 +1,66 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-   <title>Week 3</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Week 3 – Encoding & Access</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-   <h1>Encoding Notated Music</h1>
-   <p> I Converted MusicXML to MEI using Verovio. MusicXML uses <note> with <pitch> subelements; MEI uses attributes like dur, pname, oct. I uploaded MEI and updated verovio.html to render the file. </p>
+
+<header>
+    <h1>Week 3 - Encoding My Musical Score</h1>
+</header>
+
+<main>
+
+    <h2>Task Overview</h2>
+    <p>
+      Looking back on last week, I digitised my chosen piece with the tool MuseScore. This week I explored how we can make notated music accessible to people who might 
+        not have appropriate software, by converting the score into different symbolic encoding formats and then rendering it directly on a webpage. 
+    </p>
+
+    <p>
+        This was my first time working with MusicXML, MEI and Verovio, so it definitely felt 
+        a little intimidating at first! However, once I figured out that each format simply stores 
+        musical information in a structured text form, in the same way HTML does for websites, it started 
+        to feel a bit more familiar. I am aware there can be a lot of issues surrounding this lab.
+    </p>
+
+    <h2>Files Exported</h2>
+    <p>
+        I exported my score to two important standards:
+    </p>
+    <ul>
+        <li> MusicXML - which I am familiar with </li>
+        <li>MEI</li>
+    </ul>
+
+    <ul>
+        <li><a href="data/MoonRiver.musicxml" download>Moon River – MusicXML File</a></li>
+        <li><a href="data/MoonRiver.mei" download>Moon River – MEI File</a></li>
+    </ul>
+
+    <p>
+        I then uploaded these files into my repository so they are stored and preserved as part 
+        of my dataset moving forward. Placing them in my dataset is like a safety blanket for me, and knowing I can refer back to them at any time is beneficial. 
+    </p>
+
+    <h2>Rendering My Score Online</h2>
+    <p>
+       Note: Verovio can be tempromental. 
+        <a href="verovio.html">Verovio page here</a> so it displays my <em>Moon River</em> MEI file.
+        It was satisfying to see my digitised score appear online without needing
+        any extra notation software. I think this ties in well with my theme, as it is able to standtime and be accesible for movie lovers/those who are not familair with music softwear.
+       Overall, MusicXML feels more universal and simple. Infact, I was familiar with XML beforehand... whereas MEI 
+        seems designed for libraries and long-term preservation.
+    </p>
+
+</main>
+
+<footer>
+    <p><a href="index.html">← Back to Home</a></p>
+</footer>
+
 </body>
 </html>
